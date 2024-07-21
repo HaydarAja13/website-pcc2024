@@ -6,7 +6,7 @@ export default function SekumSection() {
     <section className='h-auto py-16 px-4 md:px-24' id='sekum'>
       <SectionTitle
         firstTitle='UMUM'
-        spanTitle='SEKRETARIAS'
+        spanTitle='SEKRETARIS'
         textColor='text-primary'
         spanColor='text-quinary'
         useBr={false}
